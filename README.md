@@ -8,4 +8,4 @@ Showcases of all interesting works by Thai coders/programmers, UX/UI designers, 
 
 ## Contributions
 
-If you find an interesting work or want your work to be listed here, feel free to send a pull request to me.
+If you find an interesting work or want your work to be listed here, feel free to send me a pull request.
